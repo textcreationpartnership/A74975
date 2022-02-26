@@ -1,0 +1,291 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A manifest and breife discovery of some of the errours contained in a dialogue called the Marrow of moderne divinity. Wherein is shewen, especially the authors errour in the manner of the iustification of a sinner, and the truth cleared from all the falshoods contained in that booke concerning the same, with some other of his errours.</title>
+            <author>I. A.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74975</idno>
+            <idno type="STC">Wing A10</idno>
+            <idno type="STC">Thomason E359_16</idno>
+            <idno type="STC">ESTC R11271</idno>
+            <idno type="EEBO-CITATION">99858971</idno>
+            <idno type="PROQUEST">99858971</idno>
+            <idno type="VID">160017</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74975)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160017)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 58:E359[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A manifest and breife discovery of some of the errours contained in a dialogue called the Marrow of moderne divinity. Wherein is shewen, especially the authors errour in the manner of the iustification of a sinner, and the truth cleared from all the falshoods contained in that booke concerning the same, with some other of his errours.</title>
+                  <author>I. A.</author>
+               </titleStmt>
+               <extent>[4], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.W. for Joshua Kirton, and are to be sold at his shop at the signe of the White Horse in Pauls Church-yard.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"To the Christian reader" signed: I.A.</note>
+                  <note>A reply to: Fisher, Edward. Marrow of modern divinity.</note>
+                  <note>Annotation on Thomason copy: "Nouemb: 2d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fisher, Edward, fl. 1627-1655. --  Marrow of modern divinity.</term>
+               <term>Salvation --  Early works to 1800.</term>
+               <term>Antinomianism --  Controversial literature --  Early works to 1800.</term>
+               <term>Justification --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160017:1" rendition="simple:additions"/>
+            <p>A MANIFEST AND BREIFE DISCOVERY Of ſome of the Errours contained in a Dia<g ref="char:EOLhyphen"/>logue called the <hi>Marrow of Moderne Divinity.</hi>
+            </p>
+            <p>Wherein is ſhewen, eſpecially the Authors errour in the manner of the Iuſtification of a Sinner, and the Truth cleared from all the falshoods contained in that Booke con<g ref="char:EOLhyphen"/>cerning the ſame, with ſome other of his Errours.</p>
+            <q>
+               <bibl>Iude the 3.</bibl> Contend for the Faith which was once delivered to the Saints.</q>
+            <q>
+               <bibl>2. Epiſtle of John verſe 9.</bibl> whoſoever tranſgreſſeth and abideth not in the Doctrine of Chriſt, hath not God; he that abideth in the Doctrine of Chriſt, he hath both the Father and the Sonne.</q>
+            <p>LONDON, Printed by <hi>T. W.</hi> for <hi>Joſhua Kirton,</hi> and are to be ſold at his ſhop at the ſigne of the White Horſe in <hi>Pauls</hi> Church-yard. 1646.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:160017:2"/>
+            <pb facs="tcp:160017:2"/>
+            <head>To the Chriſtian Reader that deſires to know the wayes of God in the Goſpell touch<g ref="char:EOLhyphen"/>ing the way that he hath ſet forth, to bring Poore Sinners to Chriſt to be juſtifyed by him, and de<g ref="char:EOLhyphen"/>ſires to walke therein, Grace and Peace, <hi>&amp;c.</hi>
+            </head>
+            <p>CHriſtian Reader there came lately to my ſight, a Booke called the marrow of moderne divinity, which when I had read the title page my heart rejoyced within me, hoping that now God had ſtirred up ſome man to compoſe the differences that are betweene the legaliſt and the Antinomiſt (they both erring from the truth) which was the thing I exceedingly deſired, But after I had read it over two or three times and conſidered well of it, I found I was much deceived in my expectation, And then I began to won<g ref="char:EOLhyphen"/>der, that this Booke ſhould come to the third Edition, and be received ſo generally, I finding ſo many miſtakes in it, eſ<g ref="char:EOLhyphen"/>pecially in the manner of the Iuſtification of a Sinner, where<g ref="char:EOLhyphen"/>in be hath gone the direct way with the Antinomiſt, There<g ref="char:EOLhyphen"/>fore I could not chuſe but ſet my ſelfe to worke to vindicate the truth of God ſeeing others are ſilent herein,) and accor<g ref="char:EOLhyphen"/>ding to my poore ability to ſet forth the truth, which I have beene taught of God. I doe not intend to write of all his mi<g ref="char:EOLhyphen"/>ſtakes, for that were too great worke for me, but only of
+<pb facs="tcp:160017:3"/>ſome of them, and breifly alſo (except one which I cheifly in<g ref="char:EOLhyphen"/>tend.) I know not the Author but by his Booke, nor ever heard ſo much as his name, Therefore I cannot doe this in any ſpleene towards him, nay this I will ſay for him, he hath ſet downe many excellent truths, and hath ſhewed himſelfe a painfull and laborious man in collecting the opinions of ſo ma<g ref="char:EOLhyphen"/>ny Divines, yet if he erre from the truth, I hold my ſelfe, bound to let him and others know his errour, and I deale no otherwiſe by him, then I deſire to be dealt withall my ſelfe. If I erre from the truth; for it is the glory of God and his truth that I ſeeke above all, if my heart deceive me not. Chri<g ref="char:EOLhyphen"/>ſtian Reader, I beſeech the ſeriouſly to conſider of the excep<g ref="char:EOLhyphen"/>tions here taken by me, and weigh them by the Scriptures, and if there be truth in them, receive them with meekenes of Spirit.</p>
+            <p>I ſhall be breife in the examination of the Booke, for my ability of body will not ſerve me to be ſo large as otherwiſe I would; the Lord give thee wiſdome to underſtand his truth and a willing heart to obey and yeild unto it. And ſo now I direct my ſelfe to the Author of the Booke, commending thee to the Grace of God, I remaine.</p>
+            <closer>
+               <signed>Thy Poore ſervant in the Lord Jeſus Chriſt. <hi>I. A.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:160017:3"/>
+            <head>A manifeſt and breife diſcovery of ſome of the errours, contai<g ref="char:EOLhyphen"/>ned in a dialogue, called the <hi>marrow of moderne divinity.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">H</seg>Aving of late read over your Booke called the <hi>marrow of moderne divinity,</hi> and by often per<g ref="char:EOLhyphen"/>uſall thereof, found many things in it, which I conceive is not truth, I have preſumed in the defence of the truth, which I have lear<g ref="char:EOLhyphen"/>ned out of the Scriptures to examine ſome things delivered by you in your Booke, not doubting but you will be ready to hearken to the truth, from any that ſhall make it appeare unto you.</p>
+            <p>I ſhall take ſome ſmall exceptions at divers things there<g ref="char:EOLhyphen"/>in, becauſe I intend one ſpeciall thing, which is the greateſt matter of all, and wherein any one being deceived, the great<g ref="char:EOLhyphen"/>eſt damage conſiſts. But before I come to that which I cheif<g ref="char:EOLhyphen"/>ly intend, I take notice of ſome things, in the fourth page of your Booke; you ſay the new Teſtament mentions a threefold law, you might have added more if you had pleaſed, what ſay you to the law of the Spirit of life, <hi>Rom.</hi> 8.2.</p>
+            <p>It is very neceſſary for us to conſider how you have diſtin<g ref="char:EOLhyphen"/>guiſht the law of workes and the law of Chriſt, for you ſay the ten Commandements may be ſaid to be the matter of the law of workes, or the matter of the law of Chriſt.</p>
+            <p>You have here made a diſtinction that neither the Scrip<g ref="char:EOLhyphen"/>tures ſet forth, nor any Authour that ever I heard of.</p>
+            <p>But to anſwer you directly, the law of the ten Comman<g ref="char:EOLhyphen"/>dements is all one and the ſame, not differing in it ſelfe, but is a holy, juſt and perfect law, proceeding from a holy God, and binds all men to the obedience of it, and condemns every tranſgreſſion againſt it, yea the moſt holyeſt man, and he that
+<pb n="2" facs="tcp:160017:4"/>is in greateſt favour with God, if he tranſgreſſe, it condemns him, as juſtly as the moſt ungodly wretch living.</p>
+            <p>But the difference lyes in this, That the one namely true beleevers are juſtified by Chriſt from the Curſe and penalty of the law, and unbeleevers lye under the condemning power, penalty and curſe of the law.</p>
+            <p>But you and I differ only in your diſtinction, for I doe not find throughout all the New Teſtament, that the law of the ten Commandements are called, the law of Chriſt, There are other lawes of Chriſt, as the law of grace, the law of Faith or beleiving in him, and many other Commandements or lawes of Chriſt, which are not contained in the law of the ten Commandements, and ſo are none of the matter there<g ref="char:EOLhyphen"/>of. As for the text, <hi>Gallat.</hi> 6.2. It is ſet downe by the Apoſtle as one ſpeciall law of Chriſt to beare one anothers burden, But this will not prove your aſſertion that the law of the ten Commandements is the matter of the law of Chriſt, I meane as he is the Mediator of the New Covenant.</p>
+            <p>Yet doe I not deny, but that the law of the ten Comman<g ref="char:EOLhyphen"/>dements, may be a rule and direction to true beleivers, to walke by, yet beleevers doe not worke by any compulſion of that law, but after a more free way, of love unto God and Chriſt, ariſing from the love of God in Chriſt unto them, the love of God conſtraine them to holineſſe of life, to labour to honour God; And the Apoſtles generally doe urge and preſſe beleevers to holineſſe from the free grace of God, and from the mercies of God, extended towards them in Ieſus Chriſt as we may ſee, <hi>Titus.</hi> 2.11.12. <hi>Romans.</hi> 12.1.</p>
+            <p>The law of the ten Commandements is an abſolute perfect holy and juſt law, yet it ſetts not forth Chriſt, neither is faith required therein, nothing but abſolute and perfect obedience to the ſame is required therein. It brings us not to Chriſt, but wounds us, and leaves us deſtitute in reſpect of any helpe it can afford, It is the law of the Goſpell that releeves us.</p>
+            <pb n="3" facs="tcp:160017:4"/>
+            <p>
+               <hi>Page</hi> 7.8. I let paſſe your fine diſtinction of the law of the ten Commandements, calling it the matter of the Covenant of works, and not the Covenant it ſelfe, your reaſon is weake, for had not the Lord abſolute authority to lay a command upon the Creature, and man bound to obey, though he gave no aſſent?</p>
+            <p>And now I come to examine whether this law of the ten Commandements was given to <hi>Adam,</hi> and writ in his heart in Paradiſe before his fall.</p>
+            <p>You have affirmed that it was written in his heart before his fall, <hi>page</hi> 7. and the 10. and indeed throughout your whole Booke; I deny it, and I demand your proofe, for your opini<g ref="char:EOLhyphen"/>on out of Scripture.</p>
+            <p>We read but of one Commandement given to <hi>Adam</hi> in Pa<g ref="char:EOLhyphen"/>radiſe, But you tell us of ten more, you will be wiſe above that which is written; I acknowledge that <hi>Adam</hi> was Crea<g ref="char:EOLhyphen"/>ted a perfect Creature, full of holynes purity and uprightnes, But yet that it was in reſpect of the writing of the ten Com<g ref="char:EOLhyphen"/>mandements in his heart before his fall I cannot ſee, neither find I any Scripture to lead me to beleeve it.</p>
+            <p>I acknowledge that aſſoone as ever <hi>Adam</hi> had tranſgreſſed he came to know good and evill, which he did not know be<g ref="char:EOLhyphen"/>fore, And this law of the ten Commandements was then writ in his heart, and he that could not keepe one Commandement, had many more given him, ſo that now by his fall, the very flood gates of Sinne, were ſet open through his tranſgreſſion to the drowning of himſelfe and his poſterity in miſery.</p>
+            <p>But becauſe this opinion is ſo often repeated by the Au<g ref="char:EOLhyphen"/>thor in his Booke, I deſire to know to what it tends, and what uſe; we may make of it, doth it ſerve to illuſtrate or ſet forth, any point of Doctrine in the Scriptures? or doth the contra<g ref="char:EOLhyphen"/>ry, which I have affirmed, oppoſe or gain ſay any truth? If it be ſo that neither is done hereby, Then I ſay you have troub<g ref="char:EOLhyphen"/>led your Readers with needles doctrine, no way tending to e<g ref="char:EOLhyphen"/>dification,
+<pb n="4" facs="tcp:160017:5"/>but is a meere fancy of your owne Braine.</p>
+            <p>You tell us it is the opinion of all Authors and Interpreters that you know, but you tell us none of their names, nor none of the Scriptures, they have ſo interpreted for the proofe thereof, And ſo I take it as your owne opinion, which I dare not receive, untill I ſee better ground for it.</p>
+            <p>I take notice alſo how finely you would inſinuate unto us, that <hi>Adam</hi> in eating the forbidden fruit, did breake all the ten Commandements; and have you gone through them all? doubt<g ref="char:EOLhyphen"/>les you have pleaſed your ſelfe therein, but what content you have given to your Reader in it, I leave it to the judicious to conſider of, and ſo paſſe it over, and come to ſomething that remaines.</p>
+            <p>
+               <hi>Page.</hi> 28. and 29. You affirme that <hi>Adam</hi> fell the very ſame day, that he was created; and the ground of your opinion is, <hi>Pſalme.</hi> 49.12. which text in the <hi>Hebrew,</hi> you ſay is thus read; <hi>Adam being in honour did not lodge a night in it;</hi> you have a good art in adding to the Scripture, as I ſhall ſhew hereaf<g ref="char:EOLhyphen"/>ter.</p>
+            <p>And you have quoted Mr. <hi>Aynſworth</hi> in the Margent to helpe you, but he doth not; I have examined Mr. <hi>Aynſworth</hi> upon that <hi>Pſalme,</hi> but he affirmes no ſuch thing, he ſaith this may be minded both for the firſt <hi>Adam,</hi> who continued not in his dignity, And ſo for all his Children, theſe are his owne words.</p>
+            <p>Now how can you gather from hence that <hi>Adam</hi> fell the ſame day he was created, I wiſh you to obſerve that the holy Ghoſt in that <hi>Pſalme</hi> intends no ſuch thing as <hi>Adams</hi> fall, but of mans being in honour the inſtability thereof and the ſhort continuance of it; And I ſuppoſe you know <hi>(Adam)</hi> to be the common name of man, and therefore the firſt man <hi>Adam</hi> can<g ref="char:EOLhyphen"/>not be here meant.</p>
+            <p>Leave theſe your fained deviſes, and keep cloſe to the Scrip<g ref="char:EOLhyphen"/>tures, and ſeeke not to know in divine things, anything, but
+<pb n="5" facs="tcp:160017:5"/>what is there written, To the law and to the Teſtimony if they ſpeake not, it is becauſe there is no truth in them, Be not wiſe above that which is written, and doe not you pub<g ref="char:EOLhyphen"/>liſh that for truth, which you have no ground for, ſecret things belong unto God, but thins revealed unto us, <hi>&amp;c.</hi>
+            </p>
+            <p>So likewiſe is your conjecture of <hi>Adams</hi> ſacrificing on the ſame day that he was created, and that God cloathed him with the skins of thoſe beaſts, which he offered in ſacrifice.</p>
+            <p>But I leave theſe things as your owne imaginations, yet this I ſay that it is not probable that he fell the ſame day that he was created, for there were many things paſſed after man was crea<g ref="char:EOLhyphen"/>ted, which are ſet downe in the ſecond Chapter of <hi>Geneſis,</hi> which is not likely were done all in one day, neither doe I know of what uſe this opinion is, but I leave it to the Reader to conſider off.</p>
+            <p>And although I freely confeſſe that Chriſt offered up him<g ref="char:EOLhyphen"/>ſelfe the ſixth day of the weeke, And that <hi>Adam</hi> was created the ſixth day, But muſt it therefore needs follow, that <hi>Adam</hi> fell the very ſame day that he was created, I know no neceſſi<g ref="char:EOLhyphen"/>ty thereof.</p>
+            <p>
+               <hi>Page</hi> 43. I wonder you durſt be ſo bold as to alter the words and ſo the fence and meaning of the Apoſtle, <hi>Rom.</hi> 5.13. Your words are thus, before the time of the law ſinne was in the world, yet did they not impute it to themſelves, becauſe there was no law, But the Apoſtle hath it thus, for untill the law ſin was in the world, but ſinne is not imputed where there is no law, The Apoſtle proves plainly here, that there was a law written in mens hearts, before the giving of the law upon mount <hi>Sinai,</hi> the breach wherof was imputed unto them, for there was not any time, ſince <hi>Adams</hi> fall, wherein, there was nor a law to condemne man for ſinne, and ſo their ſinne was imputed unto them at all times, And not as you ſay, they did not impute it to themſelves, I pray you take knowledge what the ſame Apoſtle ſaith, in
+<pb n="6" facs="tcp:160017:6"/>the ſecond Chapter of his Epiſtle to the <hi>Romans</hi> verſes 14 &amp; 15. <hi>For when the Gentills which have not the law do by nature the things contained in the Law, theſe having not the law, are alaw unto themſelves, which ſhew the worke of the law written in their hearts, their conſcience bearing alſo witneſſe, and their thoughts the meane while accuſing or els excuſing one another.</hi> Take heed how you alter any text of Scripture to maintaine your owne opinions it is very daingerous to adde or to detract from Scripture.</p>
+            <p>And now having gone over ſome of thoſe things I intended with a great deale of brevity, and paſſing by many things which I might juſtly have taxed as miſtakes in that booke, I come now to that which I cheifly intended, and without which I had never ſet upon this worke, for there is leſſe dan<g ref="char:EOLhyphen"/>ger in thoſe I have already taken notice of, then in that which followes, and the Lord aſiſt me in diſcovering of the truth &amp; in laying open the palpable errour of the Author.</p>
+            <p>Indeed it greived my heart to conſider how men in theſe late dayes are fallen into errour, and cannot underſtand the ve<g ref="char:EOLhyphen"/>ry firſt principles and beginnings of Chriſt, but they are at the toppe at firſt, before they have laid the firſt ſtone of the foun<g ref="char:EOLhyphen"/>dation of the building, and indeed it proceeds from an errour in the underſtanding in the waies of God.</p>
+            <p>They conceive that if there ſhould be any preparations to Faith in Chriſt, that it would much derrogate from free grace and therefore will admit of none, for ſaith this Author it is to bring mony in the hand; and Chriſt bids come buy wine and milke without mony, that is Grace and ſalvation without mony or price; I confeſſe it is truth, for we muſt receive all freely even of free grace.</p>
+            <p>But yet I pray you call to mind who they are that are cal<g ref="char:EOLhyphen"/>led to this feaſt, it is only the thirſty; Ho, <hi>every one that thirſt<g ref="char:EOLhyphen"/>eth, come yee &amp;c.</hi> It is not every one, but only the thirſty, the broken in heart, namely the repentant Soul which thirſts for mercy.</p>
+            <pb n="7" facs="tcp:160017:6"/>
+            <p>When I conſider the Author in the pages of his booke 135 136. 137. 138. 139. I cannot but wonder at the blindneſſe of the man in the waies of God as touching his working upon the hearts of poore Sinners in bringing them to beleive in Chriſt, to be juſtified by him.</p>
+            <p>He ſeemes not to know what Regeneration is, for he hath ne<g ref="char:EOLhyphen"/>ver mentioned it in all his booke, nor what Repentatce is, nor how we come to this excellent guift of Faith, nor tells us what it is, but only that wee muſt belive in Chriſt, and take Chriſt, but who is the worke of this Faith he tells us not, but ſpeakes of it as if it were in our own power to beleive, where<g ref="char:EOLhyphen"/>as it is not, for the Apoſtle ſaith <hi>to you it is given to beleive &amp;c.</hi>
+            </p>
+            <p>I ſhall have occaſion to ſpeake of theſe things more at larg and to let thee, Chriſtian Reader, underſtand his great errours, and the wrong he hath done the people of God in publiſhing his booke, in theſe particulars.</p>
+            <p>But firſt I will note ſome things out of his booke in thoſe pages I have mentioned, and I will do it breifly.</p>
+            <p>In page 136. he ſaith <hi>That the Lord juſtifieth his children before they repent, or truly humble themſelves &amp;c.</hi> But he hath not ſet downe any place of Scripture for the proofe thereof, we muſt take his owne word, I ſhall prove the contrary very ſhortly. I mean in their owne fence and feeling God doth ne<g ref="char:EOLhyphen"/>ver juſtifie any before they repent and humble themſelves in ſeeking mercy from him.</p>
+            <p>Page 137. where it is objected by himſelfe, <hi>that the Scrip<g ref="char:EOLhyphen"/>tures hold forth that the Lord hath appointed Repentance to goe before Faith;</hi> for it is ſaid Marke 1.15. <hi>Repent and beleive the Goſpell.</hi>
+            </p>
+            <p>He anſwers indeed, <hi>ſometimes the name of repentance is given to thoſe preparatory beginnings,</hi> which he calls <hi>Legall fits and terrours,</hi> which are both in nature and time before Faith, <hi>and thus,</hi> he ſaith, <hi>Judas is ſaid to repent,</hi> and ſaith <hi>that it is all
+<pb n="8" facs="tcp:160017:7"/>the repentance that goes before Faith in Chriſt.</hi>
+            </p>
+            <p>O horrible wickednes, how dare this man affirme ſuch a thing, that our Saviour Chriſt in this place ſhould Preach, and call for no other repentance before beleiving, but ſuch as <hi>Iudas</hi> had.</p>
+            <p>But he goes on and tells you, that true and Evangelicall repentance is a fruit of Faith, and cannot be before Faith in Chriſt.</p>
+            <p>I ſhall ſhew you the contrary very ſpeedily, and that it is not a fruit of juſtifying Faith, but a worke of the Spirit, to prepare the heart to the beleiving of the promiſe.</p>
+            <p>He ſaith alſo that he holds, that repentance is a conſe<g ref="char:EOLhyphen"/>quent of Faith, and that it followes after.</p>
+            <p>But why did you not ſet downe unto us, what this repen<g ref="char:EOLhyphen"/>tance is, which you meane and ſay followes Faith, I am glad yet, that you doe not caſt repentance quite away, but will let it have a little place in your thoughts, God grant you true repentance in your heart, for ſo violating the wayes of God, ſo plainly ſet downe in the Scriptures.</p>
+            <p>
+               <hi>Page.</hi> 138. He confeſſeth that legall fitts of feare and ter<g ref="char:EOLhyphen"/>rour doe goe before Faith in Chriſt ordinarily and in ſome meaſure in ſome, but not in all, and he inſtanceth in <hi>Zacheus</hi> and <hi>Lidia.</hi>
+            </p>
+            <p>To which I anſwer, that, that which he calls legall fitts of feare and terrour, we ſhall find them to be another thing, and to be true repentance towards God, And for <hi>Zacheus</hi> we cannot conceive, but that his heart was truly broken and hum<g ref="char:EOLhyphen"/>bled at that very time, And there was a manifeſt ſigne there<g ref="char:EOLhyphen"/>of expreſſed in his preſent reſolution to make reſtitution.</p>
+            <p>And for <hi>Lidia,</hi> ſhe is ſaid to be a worſhipper of God, and doubtles, one that with <hi>Simeon,</hi> waited for the conſolation of <hi>Iſrael,</hi> her heart being fitted and prepared to receive Chriſt, And to this truth Doctor <hi>Gouge</hi> gives teſtimony in his Booke called <hi>the whole Armour of God,</hi> And indeed no ſooner did
+<pb n="9" facs="tcp:160017:7"/>
+               <hi>Lidia</hi> here <hi>Paul</hi> Preach Chriſt come in the fleſh dead, and ri<g ref="char:EOLhyphen"/>ſen againe, but ſhe received him in her heart, Thus farre I have gone in ſetting downe ſome of the Authours errours.</p>
+            <p>I ſhall now come (the Lord aſſiſting me) to diſcover the truth of the wayes of God, laid downe in the Scriptures con<g ref="char:EOLhyphen"/>cerning his working upon poore Sinners, in bringing them unto Chriſt to be juſtified by him, through Faith, And I ſhall ſhew you what repentance is, and what that ſpeciall Faith is, and how they are wrought, A worke of great worth and very needfull, And yet altogether omitted by the Au<g ref="char:EOLhyphen"/>thour of the Booke, and I ſhall further diſcover his errours, by ſetting forth the truth.</p>
+            <p>The Authour hath often alleadged in his Booke that fa<g ref="char:EOLhyphen"/>mous and godly Martir Mr. <hi>William Tindall,</hi> And I doe won<g ref="char:EOLhyphen"/>der that he could not ſee his doctrine concerning repentance and Faith, He tells us plainly in many places, that repentance muſt of neceſſity goe before that Faith that juſtifieth, and that the Faith that juſtifyeth, all wayes followes repentance, as <hi>page</hi> 32. and 96. and 146. of Mr. <hi>Tindalls</hi> workes, and in the laſt <hi>page</hi> here mentioned, he ſaith, repentance goeth before Faith and prepareth the way to Chriſt and to the promiſes.</p>
+            <p>But the Authour had no mind to take notice of this truth which was ſo contrary to his opinion, for he hath found a nearer way to Heaven, then all the Saints and Servants of God did in former times.</p>
+            <p>Chriſtian Reader take knowledge of this one thing, which may helpe thee in the underſtanding of the truth of God, and may deliver thee from ſome of the errours of theſe times, namely that there is a twofold adminiſtration or diſpenſati<g ref="char:EOLhyphen"/>on of the Goſpell, The one generall, the other more ſpeciall.</p>
+            <p>The firſt is the publication or preaching of the Goſpell to all ſortes and conditions of people, whereby Chriſt is ſet forth to have taken our nature upon him, and in our nature hath ſuffered death, and payd the ranſome for ſin, and is riſen
+<pb n="10" facs="tcp:160017:8"/>again, aſſended into Heaven and ſitteth at the right hand of God in Majeſty and Glory, and ſhall come again at the end of this world to judge all men: with many more excellent things which the Scriptures ſet forth: Which generall truthes are beleived by thouſands that never enjoy the ſpeciall benefit; which beleife is very fitly called, by Divines, Hiſtoricall Faith, and they beleevers.</p>
+            <p>Secondly there is a more ſpeciall preaching of the Goſpell of Chriſt, and that is to certaine perſons diſtinguiſhed from the generall ſort of beleevers (although they beleeve the ſame generall truths with the other) by certaine quallifications, which the Scriptures ſet forth unto us, as the poore in ſpirit, the morners, the broken harted, namely the repentant; And to ſuch only is Chriſt ſent unto <hi>Eſay</hi> 61.1.2.3. to heale &amp; comfort their poor ſouls, and ſuch Chriſt invites to come un<g ref="char:EOLhyphen"/>to him, and he invites to other but ſuch as labour and are weary and heavy laden, unto ſuch only Chriſt hath promiſed reſt <hi>Math.</hi> 11.28. and to ſuch poor ſoules only is Chriſt ſent, and they and non but they can beleive in him and enjoy the ſpeciall grace and favour of God through Chriſt.</p>
+            <p>And yet the free grace of God in Chriſt is not any way leſſened, but runnes out freely to poore ſinners.</p>
+            <p>For I pray you conſider who it is that workes theſe prepara<g ref="char:EOLhyphen"/>tions or qualifications in the Elect. Is it not the Lords own worke to take away the ſtony heart &amp; to give a heart of fleſh? Is it not of his free goodnes that doth ſo prepare their hearts &amp; fit them to receive his ſpeciall promiſe of grace and mercy in Chriſt? The ground of the heart muſt be tilled, before that pretious ſeed be ſowne in it, ye muſt not ſow among thornes but in the ground fitted and prepared, It is not in mans pow<g ref="char:EOLhyphen"/>er to prepare his heart, by any naturall power left in him, no more then a dead man can raiſe himſelfe, but it is only the worke of God himſelfe.</p>
+            <p>So that though we come to Chriſt with theſe qualificati<g ref="char:EOLhyphen"/>ons
+<pb n="11" facs="tcp:160017:8"/>before ſpoken of, yet we bring nothing of our owne, but that which God hath wrought in us, neither is the grace of juſtification given to any, for the worthines of repentance but only for the truth of the promiſer, who hath promiſed pardon, mercy, and peace only to ſuch as are ſo prepared by him and to no other.</p>
+            <p>And that there is a preparation to the juſtification of a Sinner, and to the receiving of Chriſt, the Scriptures are manifeſt, <hi>Iohn</hi> the Baptiſt was ſent to prepare the way of the Lord, to make ready a people to receive the Lord, Chriſt, and what was his Miniſtery, but the Baptiſme of repentance?</p>
+            <p>And that repentance is a preparation to Faith or to the ju<g ref="char:EOLhyphen"/>ſtification of a Sinner, and muſt of neceſſity be before that Faith that juſtifyeth, and giveth aſſurance of the forgivenes of Sinne and peace and reconciliation with God is manifeſt.</p>
+            <p>But becauſe it is denyed by many in theſe dayes, I will give you a few reaſons, for the proofe thereof.</p>
+            <p>But firſt leaſt I ſhould be miſtaken, I will ſet downe in a ſhort definition, what true repentance is, a thing altogether omitted by this Authour, neither hath he told us what Rege<g ref="char:EOLhyphen"/>neration is, nor whereof it conſiſteth, which are the maine things that tend to the making of a Chriſtian and true Be<g ref="char:EOLhyphen"/>leever.</p>
+            <p>I ſay that repentance may be thus breifely and truly defined: Repentance is a powerfull worke of Gods Spirit (wrought in the hearts of ſuch as ſhall be ſaved) whereby the heart is bro<g ref="char:EOLhyphen"/>ken and turned from all the pleaſing delights of Sinne, into a great feare and ſorrow for them, and confeſſion of them un<g ref="char:EOLhyphen"/>to God, and into an exceeding deſire of pardon, peace, and re<g ref="char:EOLhyphen"/>concilliation with God, <hi>Luke</hi> 15. you may ſee all the parts of repentance in the prodigall Sonne.</p>
+            <p>And let the Authour take notice, that it is a worke of Gods Spirit, it is no mony of our owne.</p>
+            <p>This repentance here laid downe; is a worke of the Goſ<g ref="char:EOLhyphen"/>pell,
+<pb n="12" facs="tcp:160017:9"/>yea the beginning of the Goſpell, <hi>Marke.</hi> 1.1. It is no legall worke, wrought by the law, for I know neither legall repentance, nor legall Faith, which ſome men talke of very much, I know the law of the ten Commandements admitts of no repentance, neither doth it receive Faith in Chriſt.</p>
+            <p>And now I come to the reaſons to prove that God doth allwayes worke repentance in them whom he hath a purpoſe to ſave for ever, before he beſtow on them that Faith which doth juſtifie or aſſure them of the pardon of their Sinnes in the blood of Ieſus Chriſt.</p>
+            <p>Firſt reaſon is from the conſtant and unchangeable order the Holy Ghoſt hath obſerved throughout the Scriptures in requiring repentance and Faith, alwayes requiring repen<g ref="char:EOLhyphen"/>tance in the firſt place, <hi>Marke.</hi> 1.15. <hi>Math.</hi> 3.2. <hi>Luke.</hi> 3.3. <hi>Acts.</hi> 2.38. and the 3.19. So that I inferre hence, the Holy Ghoſt alwayes requiring it in the firſt place, it is that worke which he pleaſeth firſt to worke.</p>
+            <p>Second reaſon becauſe untill we have true repentance wrought in us, we have no right unto any ſpeciall promiſe for the ſpeciall promiſes of grace &amp; mercy are made only to the penitent and broken hearted, to ſuch as mourne, <hi>Eſay.</hi> 6.1.2.3. and <hi>Acts.</hi> 3.19. Therefore before repentance we cannot have faith in any of thoſe ſpeciall promiſes.</p>
+            <p>Third reaſon, Becauſe no man before he have repentance truly wrought in him, can receive the forgivenes of his Sins, For repentance is required that men may have their Sinnes done away, <hi>Acts.</hi> 3.19.</p>
+            <p>And therefore forgivenes of Sinne following repentance in the worke of it, it doth neceſſarily follow that Faith doth follow repentance, <hi>Acts.</hi> 2.38. For juſtifying Faith doth alwayes bring with it to the ſoule, the forgivenes of Sinnes.</p>
+            <p>Fourth reaſon, Whoſoever is juſtified by Faith, is at Peace with God, <hi>Rom.</hi> 5.1. But no man is at Peace with God, untill he have truly repented and his Sinnes done a<g ref="char:EOLhyphen"/>way
+<pb n="13" facs="tcp:160017:9"/>therefore no man is juſtified by faith, untill he have tru<g ref="char:EOLhyphen"/>ly repented.</p>
+            <p>I do not ſay that Repentance is the condition required in our parts to our juſtification, as being our owne worke; But yet I affirme that it is that way which God doth alwayes take in the converſion of poore ſinners unto himſelfe; Firſt to humble them, by making them ſee their miſery and loſt con<g ref="char:EOLhyphen"/>dition, and to cauſe them to ſeeke with ſtrong deſires after grace and favour purchaſed by Chriſt, for ſuch poore penitent ſoules, and none elſe ſhall ever obtaine that grace and favour with God through Chriſt.</p>
+            <p>For Chriſt calls none but ſuch unto him, neither ought any Miniſter to apply the promiſes of mercy to any other but ſuch as are weary, heavy laden, mourne, and earneſtly deſire mercy and pardon of ſin, through the apprehenſion of their miſery and loſt condition, none but ſuch as are wounded will look for, and highly prize the Phyſician, to cure their poore ſoules.</p>
+            <p>Now this Grace of Repentance is purchaſed by Chriſt, and admitted to poore Sinners, through him, and to be preached in his Name, and it is wrought in the hearts of the Elect by the holy Ghoſt, through the free grace of God, and is not wrought or produced by any power that is in the creature; For the truth is, we are all paſſive in every thing that concernes our ſalvation, we cannot repent unleſſe God give us repentance, we cannot beleeve unleſſe God give us faith to beleeve; And therefore I doe the more wonder at the Author, that hath ſo much urged Faith and believing, and yet never tells us how this ſo precious Faith is wrought, or how wee may attaine thereunto, but ſpeakes of it, as if it were in our own power.</p>
+            <p>I acknowledge freely that Repentance is wrought by the Word preached, and Faith alſo; But yet it is the Lord that works by the means, and without which all would be unpro<g ref="char:EOLhyphen"/>fitable, and ſo all is of free Grace, for there is no worke that
+<pb n="14" facs="tcp:160017:10"/>we can doe before Juſtification, or after Juſtification, can merit any grace for us before God; <hi>Epheſ.</hi> 2.10. <hi>for we are his workmanſhip, created in Jeſus Chriſt, &amp;c.</hi> And whatſoever gift of grace any man receives, it is from the free bounty and grace of God in Chriſt; And every gift ſo received, is to be put forth by us, to the glory of our God, and the good of our brethren; And to ſo forth to all men the goodneſſe of our God towards us, through Chriſt, by way of thankfulneſſe, for mercy received, and to no other end whatſoever.</p>
+            <p>And thus you may ſee I am no enemy to the doctrine of Free Grace, nor to the Teachers thereof, if they publiſh only the truth thereof, without running into by wayes for feare of ſomething which they need not, if they did truly underſtand the truth; But I deſire above all things to advance the Free grace of God in Chriſt, and by Gods help will doe it.</p>
+            <p>And now becauſe the Author hath ſo much ſpoken of Faith and of beleeving, yet hath not told us what this Faith is, I will, Chriſtian Reader, for thy help and the Authors information, for downe what this precious Faith is; for other Faiths men<g ref="char:EOLhyphen"/>tioned in Scripture I let paſſe; This only is to our purpoſe at this time, and I ſuppoſe may be thus defined.</p>
+            <p>To be, a gracious worke of Gods Spirit wrought in the hearts of ſuch as are Penitent, wherby they are aſſured in their ſoules of the free pardon and remiſſion of all their ſins, and of <hi>peace and reconciliation with God through Jeſus Chriſt,</hi> Ro<g ref="char:cmbAbbrStroke">̄</g>. 5.1.</p>
+            <p>This is that ſpeciall faith, which none but the Elect are par<g ref="char:EOLhyphen"/>takers of, and therefore called the faith of Gods elect, other faiths are common to all, this only to the redeemed in Chriſt, and this faith is never given to any, but to the repentant only.</p>
+            <p>And this repentance and this faith are the parts of Regene<g ref="char:EOLhyphen"/>ration the new birth from above, ſpoken of by our Lord Chriſt, <hi>John</hi> 3.5. <hi>Water and the Spirit;</hi> The firſt prepareth, the other purgeth, and without which work, no man ſhall enter into the Kingdome of heaven, according to that eternall
+<pb n="15" facs="tcp:160017:10"/>decree, never to be called back, which ſaith, <hi>Except a man de borne againe of Water and the Spirit, be cannot enter into the Kingdome of heaven.</hi>
+            </p>
+            <p>I wonder the Author could not ſee this, or if hee ſaw it, would not ſo much as mention it, in the bringing of a poore ſinner home to Ieſus Chriſt, but preſſeth men to believe, as if Faith were in mans power, whereas indeed, <hi>it is the gift of God,</hi> Epheſ. 2.8.</p>
+            <p>Mortification of ſin, and Sanctification or newneſſe of liſe doth alwayes follow the Juſtification of a ſinner by faith, and are ſome of the fruits, proceeding from one that is juſtified and reconciled unto God through Ieſus Chriſt, for they muſt be firſt ingrafted into Chriſt, before they can bring forth fruit in him.</p>
+            <p>Now the parts of Regeneration, Repentance, and Faith, are but the ingrafting, and no part of the fruit, the Fruit al<g ref="char:EOLhyphen"/>wayes follows the ingrafting, and theſe are no part of Repen<g ref="char:EOLhyphen"/>tance, if truly conſidered, for every grace of the Spirit, may be clearly diſtinguiſhed each from other by the Scriptures, and muſt not be confounded together, as the manner of ſome is to doe, who would make Repentance to conſiſt of Mortifi<g ref="char:EOLhyphen"/>cation to ſinne and newneſſe of life, nay, ſome have ſaid that Repentance conſiſts of Faith alſo, and ſo they make a great confuſion, and are never able to find out the truth.</p>
+            <p>For though Repentance doth continue in a time beleever and juſtified perſon ſo long as he lives here, for he ſins daily, and therefore muſt repent daily; And it is required of them, <hi>Epheſ</hi> 6.15. that they ſhould have their <hi>feet ſhod with the pre<g ref="char:EOLhyphen"/>paration of the Goſpell of peace,</hi> namely Repentance, yet is Re<g ref="char:EOLhyphen"/>pentance truly to be diſtinguiſhed from other the effects of the ſpirit, as Faith, Hope, Patience; Love and Ioy, and not to be confound one with another, as ſome doe.</p>
+            <p>And by the way let this bee conſidered, that howſoever Chriſt hath wrought perfect Redemption for us, yet the ap<g ref="char:EOLhyphen"/>plication,
+<pb n="16" facs="tcp:160017:11"/>and the making this Redemption effectuall unto us, is done by the holy Ghoſt every one in the undivided Trinity, having his ſpeciall worke appropriated unto him, to make per<g ref="char:EOLhyphen"/>fect the ſalvation of poore Sinners, which ſeverall workes muſt of neceſſity be diſtinguiſhed.</p>
+            <p>And take notice of this, that this ſpeciall Faith that juſti<g ref="char:EOLhyphen"/>fieth the beleever, apprehending the grace of God in Chriſt, is alwayes grounded upon ſome ſpeciall promiſe in Scrip<g ref="char:EOLhyphen"/>ture; For there cannot bee this ſpeciall faith in any ſoule, where there is not firſt a promiſe; And the promiſes (as I have ſaid) are made only to the Penitent, the broken-hearted the mourners, ſuch as are heavy laden, &amp;c. Chriſt calls only ſuch to him; And the holy Spirit of God, doth never write the Covenant of Peace with God in other hearts, but only in the broken and contrite heart, namely, the repentant ſoule, and they only can and doe beleeve with this ſpeciall Faith; for none elſe can worke, that worke, to beleeve in him whom God hath ſent, <hi>John</hi> 6.29. but only ſuch poore ſoules: for where there is no promiſe, there can be no faith, for though faith be the ground of things hoped for, yet there muſt be a promiſe to ground that Faith on; For though <hi>Abraham</hi> be<g ref="char:EOLhyphen"/>leeved beyond hope, yet he had a promiſe firſt made unto him by a faithfull God.</p>
+            <p>And therefore I pray the Chriſtian Reader, to obſerve what I have before ſet down, for it is not our beleeving, till wee be perſwaded that we do beleeve, for as I have ſaid before, ſo I ſay againe, there muſt be firſt a promiſe for ſuch poore Sin<g ref="char:EOLhyphen"/>ners to lay hold on, &amp; then they finding themſelves to be ſuch penitent and broken hearted, to whom the ſpeciall promiſes do pertain, the holy Ghoſt in his good time doth perſwade the heart and evidence to the ſoule, his peace and reconciliation with God, and his intereſt in the promiſe of Grace through Chriſt, Faith is the gift of God, to you it is given to beleeve; It is not in mans power to beleeve.</p>
+            <pb n="17" facs="tcp:160017:11"/>
+            <p>Beleeve it for a truth no man can poſſibly beleeve to juſtifi<g ref="char:EOLhyphen"/>cation of life, nor ſhall ever rejoyce with the Bridgroome, that hath not firſt mourned with the mourner.</p>
+            <p>I wonder theſe things ſhould be unknowne to men in theſe dayes, and that ſo much confuſion ſhould be amongſt them in the matter and manner of the juſtification of a Sinner.</p>
+            <p>So that we cannot certainly learne by them what repen<g ref="char:EOLhyphen"/>tance is, not what Faith is, nor how it is wrought in the heart; Some teaching outward dutyes and obedience to the law, to the begetting of Faith, and rejoycing therein that they are called legall Preachers, as I my ſelfe have heard.</p>
+            <p>Others againe would be ſo fame from them, that they will teach only (as they pretend) the Goſpell-way, and that they will do, by teaching only beleeving.</p>
+            <p>And as for repentance, the beginning of the Goſpell, they will not mention or very little, and that then it followes juſtifying Faith, and never goes before it, and what is their reaſon, Becauſe ſay they the Goſpell ſetts forth free Grace, and requires no act of ours at all but only beleeving.</p>
+            <p>Well then beleeving is an act of ours, here is ſomething for us to doe.</p>
+            <p>But I would know of them whether beleeving to life be in their power, The Apoſtle ſaith, to you it is given to be<g ref="char:EOLhyphen"/>leeve and that Faith is the gift of God, Then there is no power in us to beleeve, the very act of beleeving is of free grace, And ſo is repentance of free grace, God is the giver of repentance as well as Faith, <hi>Acts.</hi> 11.18. 2. <hi>Tim.</hi> 2.25.</p>
+            <p>For although repentance be wrought in us, and we act it, yet it is God that gives it, and it is nothing elſe, but the free grace of God, to perpare the hearts of Sinners, for the re<g ref="char:EOLhyphen"/>ceiving of the forgivenes of Sinnes and peace and reconcilia<g ref="char:EOLhyphen"/>tion with God by Faith in the Lord Ieſus Chriſt.</p>
+            <p>All the Prophets in the old Teſtament have called for re<g ref="char:EOLhyphen"/>pentance in the firſt place, that ſo they might be prepared to
+<pb n="18" facs="tcp:160017:12"/>receive mercy, <hi>Iohn</hi> the Baptiſt Preached it to prepare them to receive the Lord Chriſt, Our Saviour himſelfe Preached it in the firſt place before beleeving, The Apoſtles Prea<g ref="char:EOLhyphen"/>ched it before Faith in Chriſt to the forgivenes of Sinnes: The very truth is, that the ſame way which was formerly to others, the ſame way to ſalvation is for us now, and we muſt goe the ſame way that they went, which were before us, new wayes are dangerous.</p>
+            <p>We muſt not looke for a nearer way to Heaven, then the Saints and people of God have gone before us, and though it be a narrow and a ſtraight way, yet it is a ſure way, it leads to happines.</p>
+            <p>
+               <hi>Page.</hi> 113. I may alſo juſtly except againſt his expoſition on the 11. to the <hi>Hebrewes,</hi> verſe 6. <hi>without Faith it is im<g ref="char:EOLhyphen"/>poſſible to pleaſe God</hi> that is ſaith he, As <hi>Calvin</hi> ſaith, what<g ref="char:EOLhyphen"/>ſoever a man thinketh, purpoſeth or doth, before he be re<g ref="char:EOLhyphen"/>conciled to God in Chriſt is accurſed, and not only of no value to righteouſnes, but of certaine deſerving to dam<g ref="char:EOLhyphen"/>nation.</p>
+            <p>I muſt confeſſe I am amazed to thinke ſuch things ſhould be publiſhed, I honour the memory of that Holy Man Mr. <hi>Calvin,</hi> yet if it were his opinion, I muſt needs ſay it was an errour in him, for there be many things done by men before reconciliation with God, that are not Sinne.</p>
+            <p>For Sin is the tranſgreſſion of ſome law, but what law for<g ref="char:EOLhyphen"/>bids a man to heare and read the Scriptures, may it is com<g ref="char:EOLhyphen"/>manded by Chriſt himſelfe, <hi>ſearch the Scriptures, Io.</hi> 5.39. Men may Sin and doe Sin in hearing and reading the word, but the worke it ſelfe is no Sin, For we muſt diſtinguiſh be<g ref="char:EOLhyphen"/>tween the worke and the manner of the doing it.</p>
+            <p>It is no Sin for a man to humble his ſoule in ſeeking mer<g ref="char:EOLhyphen"/>cy and grace and favour with God, which muſt be done be<g ref="char:EOLhyphen"/>fore we can come to that Faith, which makes our perſons ac<g ref="char:EOLhyphen"/>ceptable to God, and we well pleaſing unto him through
+<pb n="19" facs="tcp:160017:12"/>Chriſt, as <hi>Enochs</hi> Perſon was, And indeed it is impoſſible our perſons ſhould be accepted, or we become pleaſing to God by any other way then by Faith in Chriſt.</p>
+            <p>And the reaſon is rendred by the Apoſtle in the words fol<g ref="char:EOLhyphen"/>lowing; For he that commeth to God muſt beleeve that he is a rewarder of them that dilligently ſeeke him, which is a leſ<g ref="char:EOLhyphen"/>ſer degree of Faith, then that which makes us to become plea<g ref="char:EOLhyphen"/>ſing in his ſight through Chriſt Ieſus.</p>
+            <p>Nor can we truly ſay that all the actions of unregenerate men are Sinne, <hi>Ahabs</hi> repentance was not Sin, it was no breach of any law of God, nay God takes notice of it and bids the Prophet to take notice of it, yea and rewards him for it, in deferring the judgement pronounced, but he never rewards any man for Sin, but denounceth judgement againſt them.</p>
+            <p>Thus have I endevoured to pick out ſome of the Bones that the Authour hath left in amongſt the <hi>marrow of moderne di<g ref="char:EOLhyphen"/>vinity,</hi> and I hope I have performed it with plainnes, and I have done it after a loving manner, without malice to the Authour, whom I know not, nor yet could ever perfectly heare of by any man: But that which I have writ, is in the de<g ref="char:EOLhyphen"/>fence of the truth, ſo much oppugned by the Authour, which truth is deare unto me, and ſo ſhould be to all Gods people.</p>
+            <p>I muſt confeſſe, and doe it freely, that I love the Authour, and am perſwaded of the truth of many things delivered by him in his Booke, and for which grace beſtowed on him, I bleſſe God, and pray the Lord for a further increaſe upon him, but the truth I value above all.</p>
+            <p>I find the Booke commended by worthy Divines, whom I honour, but yet my Faith is not to depend upon man, but only upon the Scriptures, the written word of God. And I deſire that this which I have written, may be tryed by that touch ſtone and none elſe, And then I am confident it will be found truth, when that opinion of the Antinomians maintai<g ref="char:EOLhyphen"/>ned by this Authour will be found an errour, For he hath
+<pb n="20" facs="tcp:160017:13"/>directly gone along with them in this thing, namely that there is no Evangelicall preparations to Faith in Chriſt, which is the maine thing I have now diſproved and have (I hope) ſuf<g ref="char:EOLhyphen"/>ficiently proved, that there muſt be ſuch preparations to Faith in Chriſt, And it is impoſſible for any other to beleeve in Chriſt to the ſaving of the ſoule, but only ſuch as are ſo prepared.</p>
+            <p>Chriſt himſelfe ſaith non can come to me except the Fa<g ref="char:EOLhyphen"/>ther which hath ſent me draw him, <hi>Iohn.</hi> 6.44.</p>
+            <p>Errour is very dangerous, eſpecially in the foundation and principles of the Doctrine of Chriſt, whereof repentance and Faith are two of the maine, <hi>Heb.</hi> 6.1. And therefore with great care to be looked into, and to be truly knowne, and how they are to be diſtinguiſhed from other the effects of the Spirit.</p>
+            <p>Chriſtian Reader, what I have done herein I commend unto thy wiſdome, and I deſire the Lord to give both thee and me ſuch underſtanding in the truth and wayes of God, that we may not be carryed away with every wind of Do<g ref="char:EOLhyphen"/>ctrine from the truth to the errours of theſe times. Now to him that is able to keepe and preſerve us in his truth, be all praiſe honour and glory through Chriſt Ieſus for ever Amen.</p>
+            <epigraph>
+               <q>
+                  <bibl>Iames. 2.1.</bibl> My Brethren have not the Faith of our Lord Ie<g ref="char:EOLhyphen"/>ſus Chriſt the Lord of glory with reſpect of perſons.</q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
